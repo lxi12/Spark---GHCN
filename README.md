@@ -1,7 +1,7 @@
 # Spark---GHCN
 the Global Historical Climate Network (GHCN) is an integrated database of climate summaries from weather stations around the world.  
 The data spans over the last 260 years, comes from over 20 different sources, and includes records from over 100,000 stations in 219 
-countries and territories all over the world. More information could be found: https://www.drought.gov/data-maps-tools/global-historical-climatology-network-ghcn
+countries and territories all over the world. More information please refers to: https://www.drought.gov/data-maps-tools/global-historical-climatology-network-ghcn
 
 in this application we will explore the dataset, data processing and data analysis
 
